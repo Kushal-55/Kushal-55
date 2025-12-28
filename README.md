@@ -1,5 +1,21 @@
 # 💫 About Me:
-I'm currently a Data Analyst at the Government of Manitoba. <br>I love working on data analysis and machine learning projects!
+class KushalAdhvaryu:
+    def __init__(self):
+        [cite_start]self.role = "Data Analyst @ Manitoba Health" # [cite: 13, 14]
+        [cite_start]self.location = "Winnipeg, MB" # [cite: 15]
+        [cite_start]self.certification = "AWS Certified Developer Associate" # [cite: 103]
+
+    def get_skills(self):
+        return {
+            [cite_start]"Languages": ["Python", "SQL", "Java", "JavaScript"], # [cite: 8]
+            [cite_start]"Data": ["Tableau", "Power BI", "Spark", "Snowflake"], # [cite: 11]
+            [cite_start]"ML_Libraries": ["TensorFlow", "Scikit-learn", "Pandas"] # [cite: 11, 90]
+        }
+
+    def current_focus(self):
+        [cite_start]return "Building data pipelines and statistical models" # [cite: 26, 37]
+
+print("Welcome to my profile!")
 
 
 ## 🌐 Socials:
