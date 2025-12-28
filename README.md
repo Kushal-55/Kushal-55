@@ -1,13 +1,10 @@
 # 💫 About Me:
-[cite_start]I am a Data Analyst and former Data Engineer with a passion for Machine Learning and Cloud Computing[cite: 4, 14, 42].
+I am a Data Analyst and former Data Engineer with a passion for Machine Learning and Cloud Computing.
 
-* [cite_start]🔭 **Currently working on:** Data linkage solutions and advanced statistical modeling at Manitoba Health[cite: 16, 26].
-* [cite_start]🎓 **Education:** Master of Applied Computer Science[cite: 79].
-* [cite_start]☁️ **Cloud:** AWS Certified Developer Associate[cite: 103].
-* [cite_start]💻 **Core Skills:** Python, SQL, Tableau, Power BI, AWS, Docker[cite: 5, 11].
-* [cite_start]🧠 **Interests:** Deep Learning, NLP, and Predictive Modelling[cite: 9, 28].
+* 🔭 **Currently working on:** Data linkage solutions and advanced statistical modeling at Manitoba Health.
+* 🎓 **Education:** Master of Applied Computer Science.
 
-[cite_start]📫 **Reach me at:** adhvaryukushal@gmail.com [cite: 2]
+📫 **Reach me at:** adhvaryukushal@gmail.com
 
 
 ## 🌐 Socials:
